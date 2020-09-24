@@ -60,7 +60,8 @@ En los lenguajes de programación a estas instrucciones se les denomina sentenci
 En Blockly, una vez programado un algoritmo en el lenguaje de bloques de Blockly, es posible obtener el programa correspondiente a dicho algoritmo en 
 otros lenguajes de programación: Python, JavaScript, Lua, ...
 La sintaxis de JavaScript es muy similar a la de C++, el lenguaje que se utilizará en esta asignatura.
-Un primer programa en  Blockly que imprima los cuadrados de los N primeros números naturales tendría la forma que muestra la Figura 1. 
+Un primer programa en  Blockly que imprima los cuadrados de los N primeros números naturales tendría la forma que muestra [esta figura](https://raw.githubusercontent.com/fsande/IB-P03-Algorithms-Programs/master/blockly1.png).
+
 Escriba este programa en Blockly y ejecútelo. 
 Vea cómo el programa es “traducido” a diferentes lenguajes (panel de la derecha). 
 Realice diferentes cambios en el mismo para familiarizarse con el entorno de programación de Blockly.
