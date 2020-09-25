@@ -27,17 +27,17 @@ Estos algoritmos se conocen como algoritmos cualitativos, ya que su resultado es
 Hay otros ejemplos, conocidos como algoritmos cuantitativos, que se refieren a algoritmos que resuelven problemas cuyo resultado es numérico, 
 por ejemplo el algoritmo de la división para calcular el cociente de dos números o el algoritmo de Euclides para calcular el máximo común divisor de dos enteros positivos.
 
-El interés en esta asignatura por los algoritmos radica en que queremos introducir al alumnado en la
+El interés en esta asignatura por los algoritmos radica en que se pretende introducir al alumnado en la
 programación de ordenadores.
 
-Máquinas algorítmicas son aquellas capaces de ejecutar algoritmos (realizar cada uno de sus pasos), una de ellas son los ordenadores. 
+Máquinas algorítmicas son aquellas capaces de ejecutar algoritmos (realizar cada uno de sus pasos) y una de este tipo de máquinas son los ordenadores. 
 Cuando se trabaja con ordenadores, los algoritmos se expresan como programas. 
 Los programas son algoritmos escritos en un lenguaje no ambiguo cuya sintaxis y semántica "entiende" el ordenador. 
-Hay muchos lenguajes de programación, entre ellos: C, Java, Python o Javascript. 
-Así pues, si se quiere que un ordenador ejecute una tarea, primero se ha de descubrir un algoritmo para llevarla a cabo; 
-programar el algoritmo, es decir representar ese algoritmo de modo que se pueda comunicar con el computador. 
+Hay muchos lenguajes de programación, entre ellos C, Java, Python o Javascript. 
+Así pues, si se quiere que un ordenador ejecute una tarea, primero se ha de idear un algoritmo para llevarla a cabo; 
+programar el algoritmo, es decir representar ese algoritmo de modo que se pueda comunicar al ordenador. 
 Se debe transformar el algoritmo conceptual en un conjunto de instrucciones o sentencias y representar éstas en un lenguaje sin ambigüedad. 
-En esta asignatura se utilizará lenguaje C++, pero antes de programar en C++ se pretende con esta práctica que
+En esta asignatura se utilizará el lenguaje C++, pero antes de programar en C++ se pretende con esta práctica que
 el alumnado realice sus primeros programas en un lenguaje más simple, en el que la programación se realiza de
 forma visual combinando diferentes tipos de bloques.
 
